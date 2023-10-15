@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.exe
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.deps.json
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.dll
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\bin\Debug\net6.0\task00_квадрат_числа.pdb
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.dll
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\refint\task00_квадрат_числа.dll
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.pdb
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\task00_квадрат_числа.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\05.10_morning\task00_квадрат_числа\obj\Debug\net6.0\ref\task00_квадрат_числа.dll
