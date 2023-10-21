@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\05.10_morning\task30\bin\Debug\net6.0\task30.exe
+I:\Project\VScode\C#\05.10_morning\task30\bin\Debug\net6.0\task30.deps.json
+I:\Project\VScode\C#\05.10_morning\task30\bin\Debug\net6.0\task30.runtimeconfig.json
+I:\Project\VScode\C#\05.10_morning\task30\bin\Debug\net6.0\task30.dll
+I:\Project\VScode\C#\05.10_morning\task30\bin\Debug\net6.0\task30.pdb
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.dll
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\refint\task30.dll
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.pdb
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\task30.genruntimeconfig.cache
+I:\Project\VScode\C#\05.10_morning\task30\obj\Debug\net6.0\ref\task30.dll
