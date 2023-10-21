@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\task24\bin\Debug\net6.0\task24.exe
+I:\Project\VScode\C#\05.10_morning\task24\bin\Debug\net6.0\task24.deps.json
+I:\Project\VScode\C#\05.10_morning\task24\bin\Debug\net6.0\task24.runtimeconfig.json
+I:\Project\VScode\C#\05.10_morning\task24\bin\Debug\net6.0\task24.dll
+I:\Project\VScode\C#\05.10_morning\task24\bin\Debug\net6.0\task24.pdb
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.dll
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\refint\task24.dll
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.pdb
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\task24.genruntimeconfig.cache
+I:\Project\VScode\C#\05.10_morning\task24\obj\Debug\net6.0\ref\task24.dll
