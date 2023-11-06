@@ -1,0 +1,20 @@
+I:\Project\VScode\C#\05.10_morning\sort arre\obj\Debug\net6.0\sort arre.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\sort arre\obj\Debug\net6.0\sort arre.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\sort arre\obj\Debug\net6.0\sort arre.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\sort arre\obj\Debug\net6.0\sort arre.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\sort arre\obj\Debug\net6.0\sort arre.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\sortarre\bin\Debug\net6.0\sort arre.exe
+I:\Project\VScode\C#\05.10_morning\sortarre\bin\Debug\net6.0\sort arre.deps.json
+I:\Project\VScode\C#\05.10_morning\sortarre\bin\Debug\net6.0\sort arre.runtimeconfig.json
+I:\Project\VScode\C#\05.10_morning\sortarre\bin\Debug\net6.0\sort arre.dll
+I:\Project\VScode\C#\05.10_morning\sortarre\bin\Debug\net6.0\sort arre.pdb
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.dll
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\refint\sort arre.dll
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.pdb
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\sort arre.genruntimeconfig.cache
+I:\Project\VScode\C#\05.10_morning\sortarre\obj\Debug\net6.0\ref\sort arre.dll
