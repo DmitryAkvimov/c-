@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\05.10_morning\task64\bin\Debug\net6.0\task64.exe
+I:\Project\VScode\C#\05.10_morning\task64\bin\Debug\net6.0\task64.deps.json
+I:\Project\VScode\C#\05.10_morning\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+I:\Project\VScode\C#\05.10_morning\task64\bin\Debug\net6.0\task64.dll
+I:\Project\VScode\C#\05.10_morning\task64\bin\Debug\net6.0\task64.pdb
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.dll
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\refint\task64.dll
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.pdb
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+I:\Project\VScode\C#\05.10_morning\task64\obj\Debug\net6.0\ref\task64.dll
