@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\05.10_morning\atistat0\bin\Debug\net6.0\atistat0.exe
+I:\Project\VScode\C#\05.10_morning\atistat0\bin\Debug\net6.0\atistat0.deps.json
+I:\Project\VScode\C#\05.10_morning\atistat0\bin\Debug\net6.0\atistat0.runtimeconfig.json
+I:\Project\VScode\C#\05.10_morning\atistat0\bin\Debug\net6.0\atistat0.dll
+I:\Project\VScode\C#\05.10_morning\atistat0\bin\Debug\net6.0\atistat0.pdb
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.AssemblyInfo.cs
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.dll
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\refint\atistat0.dll
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.pdb
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\atistat0.genruntimeconfig.cache
+I:\Project\VScode\C#\05.10_morning\atistat0\obj\Debug\net6.0\ref\atistat0.dll
