@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\lesson\lesson1\DZ1\bin\Debug\net6.0\DZ1.exe
+I:\Project\VScode\C#\lesson\lesson1\DZ1\bin\Debug\net6.0\DZ1.deps.json
+I:\Project\VScode\C#\lesson\lesson1\DZ1\bin\Debug\net6.0\DZ1.runtimeconfig.json
+I:\Project\VScode\C#\lesson\lesson1\DZ1\bin\Debug\net6.0\DZ1.dll
+I:\Project\VScode\C#\lesson\lesson1\DZ1\bin\Debug\net6.0\DZ1.pdb
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.AssemblyInfo.cs
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.dll
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\refint\DZ1.dll
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.pdb
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\DZ1.genruntimeconfig.cache
+I:\Project\VScode\C#\lesson\lesson1\DZ1\obj\Debug\net6.0\ref\DZ1.dll

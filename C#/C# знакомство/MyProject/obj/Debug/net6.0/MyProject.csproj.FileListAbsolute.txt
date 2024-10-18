@@ -1,0 +1,15 @@
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+I:\Project\VScode\C#\C# знакомство\MyProject\bin\Debug\net6.0\MyProject.exe
+I:\Project\VScode\C#\C# знакомство\MyProject\bin\Debug\net6.0\MyProject.deps.json
+I:\Project\VScode\C#\C# знакомство\MyProject\bin\Debug\net6.0\MyProject.runtimeconfig.json
+I:\Project\VScode\C#\C# знакомство\MyProject\bin\Debug\net6.0\MyProject.dll
+I:\Project\VScode\C#\C# знакомство\MyProject\bin\Debug\net6.0\MyProject.pdb
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.dll
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.pdb
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\MyProject.genruntimeconfig.cache
+I:\Project\VScode\C#\C# знакомство\MyProject\obj\Debug\net6.0\ref\MyProject.dll

@@ -1,0 +1,15 @@
+I:\Project\VScode\Project\test2\bin\Debug\net6.0\test2.exe
+I:\Project\VScode\Project\test2\bin\Debug\net6.0\test2.deps.json
+I:\Project\VScode\Project\test2\bin\Debug\net6.0\test2.runtimeconfig.json
+I:\Project\VScode\Project\test2\bin\Debug\net6.0\test2.dll
+I:\Project\VScode\Project\test2\bin\Debug\net6.0\test2.pdb
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.csproj.AssemblyReference.cache
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.AssemblyInfoInputs.cache
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.AssemblyInfo.cs
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.csproj.CoreCompileInputs.cache
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.dll
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\refint\test2.dll
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.pdb
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\test2.genruntimeconfig.cache
+I:\Project\VScode\Project\test2\obj\Debug\net6.0\ref\test2.dll
